@@ -32,7 +32,6 @@ header>h1>a {
     color: white;
     white-space: nowrap;
     overflow: hidden;
-    width: 30rem;
+    width: 50vw;
     animation: type 4s steps(60, end);
-		margin:auto;
 }
