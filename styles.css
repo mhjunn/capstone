@@ -34,4 +34,5 @@ header>h1>a {
     overflow: hidden;
     width: 30rem;
     animation: type 4s steps(60, end);
+		margin:auto;
 }
